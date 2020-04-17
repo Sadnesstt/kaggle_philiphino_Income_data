@@ -1,0 +1,2 @@
+# kaggle_philiphino_Income_data
+kaggle_philiphino_income_data 분석
